@@ -1,0 +1,35 @@
+ArrayTotal (45): 45
+ArrayTotal (-5): -5
+ArrayTotal (0): 0
+ArrayTotal (113): 113
+ArrayTotal (1000102): 1000102
+
+ArrayPosTotal (45): 45
+ArrayPosTotal (20): 20
+ArrayPosTotal (0): 0
+ArrayPosTotal (270): 270
+ArrayPosTotal (1000259): 1000259
+
+CountSpaces (0): 0
+CountSpaces (0): 0
+CountSpaces (0): 0
+CountSpaces (5): 5
+CountSpaces (6): 6
+CountSpaces (51): 51
+
+FindMax (0): 0
+FindMax (9): 9
+FindMax (9): 9
+FindMax (123): 123
+FindMax (999999): 999999
+
+IsPalindrome 1 (T): true
+IsPalindrome 2 (T): true
+IsPalindrome 3 (T): true
+IsPalindrome 4 (F): false
+IsPalindrome 5 (T): true
+IsPalindrome 6 (T): true
+IsPalindrome 7 (T): true
+IsPalindrome 8 (F): false
+IsPalindrome 9 (T): true
+IsPalindrome 10 (T): true
